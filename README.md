@@ -1,16 +1,9 @@
-# habit_tracker_hive
+# Habit Tracker Hive
 
-A new Flutter project.
+Habit Tracker Hive
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Habit_Tracker_Hive/assets/146417248/5f32c294-034a-43ac-8e3d-e96754345f55)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Habit_Tracker_Hive/assets/146417248/fc17392b-36ee-4128-9d39-9b621bae467b)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://github.com/BilalSevinc16/Habit_Tracker_Hive/assets/146417248/1efd8c89-1a51-41b2-9900-3071169f1e68)
